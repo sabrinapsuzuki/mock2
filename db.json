@@ -25,8 +25,8 @@
     },
     {
       "capacity": null,
-      "class_id": 287,
-      "class_name": "segundo teste 678",
+      "class_id": 260,
+      "class_name": "uohuiohiuohiuhuih",
       "classroom_id": null,
       "cover_cloudinary": null,
       "created_at": "2019-06-17T10:16:24.413Z",
@@ -39,6 +39,11 @@
           "end_time": "20:00:00",
           "start_time": "18:00:00",
           "week_day": "Monday"
+        },
+        {
+          "end_time": "20:00:00",
+          "start_time": "18:00:00",
+          "week_day": "Friday"
         }
       ],
       "start_at": "2019-05-27T00:00:00.000Z",
@@ -48,8 +53,8 @@
     },
     {
       "capacity": null,
-      "class_id": 219,
-      "class_name": "turma teste sabrina",
+      "class_id": 425,
+      "class_name": "Paty teste",
       "classroom_id": null,
       "cover_cloudinary": null,
       "created_at": "2019-08-13T10:16:24.413Z",
