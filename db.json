@@ -21,7 +21,13 @@
       "start_at": "2019-05-27T00:00:00.000Z",
       "students_count": 4,
       "sub_organization_level_one_id": 119,
-      "updated_at": "2019-06-17T10:21:45.592Z"
+      "updated_at": "2019-06-17T10:21:45.592Z",
+      "course_id": 73,
+      "course_name": "Negócios",
+      "school_cover_picture": "90117819-1b41-4393-9e83-05f40b88fa54.jpeg",
+      "school_description": "teste",
+      "school_id": 20,
+      "school_name": "EscolaLucas"
     },
     {
       "capacity": null,
@@ -49,7 +55,13 @@
       "start_at": "2019-05-27T00:00:00.000Z",
       "students_count": 4,
       "sub_organization_level_one_id": 119,
-      "updated_at": "2019-06-17T10:21:45.592Z"
+      "updated_at": "2019-06-17T10:21:45.592Z",
+      "course_id": 34,
+      "course_name": "Teste curso Ingrid",
+      "school_cover_picture": "90117819-1b41-4393-9e83-05f40b88fa54.jpeg",
+      "school_description": "teste",
+      "school_id": 21,
+      "school_name": "Teste Ingrid"
     },
     {
       "capacity": null,
@@ -72,7 +84,13 @@
       "start_at": "2019-08-07T00:00:00.000Z",
       "students_count": 4,
       "sub_organization_level_one_id": 119,
-      "updated_at": "2019-08-07T10:21:45.592Z"
+      "updated_at": "2019-08-07T10:21:45.592Z",
+      "course_id": 33,
+      "course_name": "Curso de Mobilias de Madeira",
+      "school_cover_picture": "90117819-1b41-4393-9e83-05f40b88fa54.jpeg",
+      "school_description": "teste",
+      "school_id": 20,
+      "school_name": "EscolaLucas"
     }
   ]
 }
