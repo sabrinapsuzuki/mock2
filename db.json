@@ -92,5 +92,42 @@
       "school_id": 20,
       "school_name": "EscolaLucas"
     }
+  ],
+  "users": [
+    {
+      "user_id": 1,
+      "user_name": "Alfedro",
+      "cargo": "Membro",
+      "church_name": "Raise Church",
+      "cover_picture": "urlteste"
+    },
+    {
+      "user_id": 2,
+      "user_name": "Raphael",
+      "cargo": "Membro",
+      "church_name": "Raise Church",
+      "cover_picture": "urlteste"
+    },
+    {
+      "user_id": 3,
+      "user_name": "Sabrina",
+      "cargo": "Membro",
+      "church_name": "Raise Caxias",
+      "cover_picture": "urlteste"
+    },
+    {
+      "user_id": 4,
+      "user_name": "Nicole",
+      "cargo": "Membro",
+      "church_name": "Raise RJ",
+      "cover_picture": "urlteste"
+    },
+    {
+      "user_id": 5,
+      "user_name": "Leonardo",
+      "cargo": "Membro",
+      "church_name": "Raise SP",
+      "cover_picture": "urlteste"
+    }
   ]
 }
