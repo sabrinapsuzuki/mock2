@@ -93,6 +93,86 @@
       "school_name": "EscolaLucas"
     }
   ],
+  "classReports": [
+    {
+      "capacity": null,
+      "class_id": 210,
+      "class_name": "Morador",
+      "classroom_id": null,
+      "cover_cloudinary": null,
+      "created_at": "2019-06-17T10:16:24.413Z",
+      "current_user_enrolled": false,
+      "date": "2019-06-16T00:00:00.000Z",
+      "online_enrollment": false,
+      "organization_id": 2,
+
+      "end_time": "09:00:00",
+      "start_time": "08:00:00",
+      "week_day": "Sunday",
+
+      "students_count": 4,
+      "sub_organization_level_one_id": 119,
+      "updated_at": "2019-06-17T10:21:45.592Z",
+      "course_id": 73,
+      "course_name": "Negócios",
+      "school_cover_picture": "90117819-1b41-4393-9e83-05f40b88fa54.jpeg",
+      "school_description": "teste",
+      "school_id": 20,
+      "school_name": "EscolaLucas"
+    },
+    {
+      "capacity": null,
+      "class_id": 260,
+      "class_name": "uohuiohiuohiuhuih",
+      "classroom_id": null,
+      "cover_cloudinary": null,
+      "created_at": "2019-06-17T10:16:24.413Z",
+      "current_user_enrolled": false,
+      "date": "2019-06-16T00:00:00.000Z",
+      "online_enrollment": false,
+      "organization_id": 2,
+
+      "end_time": "20:00:00",
+      "start_time": "18:00:00",
+      "week_day": "Monday",
+
+      "students_count": 4,
+      "sub_organization_level_one_id": 119,
+      "updated_at": "2019-06-17T10:21:45.592Z",
+      "course_id": 34,
+      "course_name": "Teste curso Ingrid",
+      "school_cover_picture": "90117819-1b41-4393-9e83-05f40b88fa54.jpeg",
+      "school_description": "teste",
+      "school_id": 21,
+      "school_name": "Teste Ingrid"
+    },
+    {
+      "capacity": null,
+      "class_id": 425,
+      "class_name": "Paty teste",
+      "classroom_id": null,
+      "cover_cloudinary": null,
+      "created_at": "2019-08-13T10:16:24.413Z",
+      "current_user_enrolled": false,
+      "date": "2019-10-13T00:00:00.000Z",
+      "online_enrollment": false,
+      "organization_id": 2,
+
+      "end_time": "10:00:00",
+      "start_time": "08:00:00",
+      "week_day": "Friday",
+
+      "students_count": 4,
+      "sub_organization_level_one_id": 119,
+      "updated_at": "2019-08-07T10:21:45.592Z",
+      "course_id": 33,
+      "course_name": "Curso de Mobilias de Madeira",
+      "school_cover_picture": "90117819-1b41-4393-9e83-05f40b88fa54.jpeg",
+      "school_description": "teste",
+      "school_id": 20,
+      "school_name": "EscolaLucas"
+    }
+  ],
   "users": [
     {
       "user_id": 1,
